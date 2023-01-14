@@ -6,7 +6,7 @@
   /* here we've set a maximum page width */
   margin: 0 auto;
   /* this ensures that all content is centered on screens wider than 1600px */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .header {
@@ -14,6 +14,7 @@
   min-height: 600px;
   max-height: 756px;
   /* parameters for the header section */
+  width: 100vh;
 }
 
 /* here we have two examples of selectors in order to remind you how to set styles for elements */
