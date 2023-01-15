@@ -9,12 +9,14 @@
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
+/* inicio sección header */
+
 .header {
   height: 100vh;
+  width: 100%;
   min-height: 600px;
   max-height: 756px;
   /* parameters for the header section */
-  border: 1px solid red;
   display: flex;
 }
 
@@ -39,7 +41,6 @@
   /*centrado de titulo v2
   align-self: center;
   */
-
   z-index: 1;
 }
 
@@ -76,6 +77,57 @@
   background-color: #2f80ed;
   z-index: -1;
 }
+
+/* fin sección header */
+
+/* inicio sección descripción */
+
+.description {
+  width: 100%;
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.two-columns {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.two-columns__brief {
+  height: 100%;
+  width: 175px;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+  color: #2f80ed;
+  margin: 0;
+}
+
+.two-columns__main-text {
+  height: 100%;
+  width: 80%;
+  min-width: 784px;
+}
+
+.two-columns__paragraph {
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px;
+  margin: 0;
+}
+
+.paragraph_active {
+  margin-bottom: 30px;
+}
+
+.two-columns__span-accent {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+}
+/* fin sección descripción */
 
 /* including elements with key-value modifiers */
 .table__cell_theme_dark {
