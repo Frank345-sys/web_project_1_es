@@ -291,10 +291,79 @@
 
 /*fin sección kaufman*/
 
-/* including elements with key-value modifiers */
-.table__cell_theme_dark {
-  width: 200px;
+/* inicio sección footer */
+
+.footer {
+  height: 350px;
+  box-sizing: border-box;
+  background-color: black;
   color: white;
-  margin-right: 0;
-  margin-top: 80px;
+  padding: 60px 0 40px 0;
 }
+
+.footer__columns {
+  height: 100%;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.footer__columns_content_copyright {
+  height: 100%;
+  width: 711px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  justify-content: space-between;
+}
+
+.logo_place_footer {
+  height: 35px;
+  width: 183px;
+}
+
+.footer__author {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 25px;
+  margin: 18px 0;
+}
+
+.footer__column-heading {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.footer__columns_content_about {
+  height: 100%;
+}
+
+.footer__list {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__column-link {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 30px;
+  text-decoration: none;
+  color: white;
+}
+
+.footer__columns_content_social {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__social-icons {
+  height: 16px;
+  width: 16px;
+  margin-right: 10px;
+}
+
+/* fin sección footer */
