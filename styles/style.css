@@ -247,10 +247,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /*color: white;*/
+  /*color: white;
+  */
   background-color: black;
   padding: 90px 0;
   overflow: hidden;
+  z-index: 0;
 }
 
 .section-title_theme_dark {
@@ -264,7 +266,6 @@
 
 .table_theme_dark {
   color: white;
-  z-index: 1;
 }
 
 .table__cell_theme_dark {
@@ -287,6 +288,7 @@
   position: absolute;
   top: 0;
   right: -160px;
+  z-index: -1;
 }
 
 /*fin sección kaufman*/
