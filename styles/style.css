@@ -22,6 +22,8 @@
   max-height: 756px;
   /* parameters for the header section */
   display: flex;
+  overflow: hidden;
+  position: relative;
 }
 
 .header__logo {
@@ -80,6 +82,20 @@
   width: 568px;
   background-color: #2f80ed;
   z-index: -1;
+}
+
+.rotacion {
+  animation: AnimateBG 20s linear infinite;
+}
+
+@keyframes AnimateBG {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 /* fin sección header */
