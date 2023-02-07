@@ -104,7 +104,7 @@
 
 .description {
   width: 100%;
-  padding: 100px 0;
+  padding-top: 100px;
 }
 
 .two-columns {
@@ -145,6 +145,57 @@
   line-height: 34px;
 }
 /* fin sección descripción */
+
+/* inicio sección techniques */
+
+.techniques {
+  width: 100%;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards {
+  width: 920px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cards__item:nth-child(3n + 2) {
+  margin: 0 100px;
+}
+
+.cards__item {
+  width: 240px;
+  padding: 60px 0 60px 0;
+}
+
+.cards__image {
+  border-radius: 50%;
+  height: 160px;
+  width: 160px;
+  box-sizing: border-box;
+  margin: 0 40px 43px 40px;
+}
+
+.cards__title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.15;
+  margin-bottom: 16px;
+}
+
+.cards__description {
+  text-align: center;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 23px;
+}
+
+/* inicio sección techniques */
 
 /*inicio sección digits*/
 
