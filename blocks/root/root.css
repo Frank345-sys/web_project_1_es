@@ -12,3 +12,11 @@
   /* this ensures that all content is centered on screens wider than 1600px */
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
+
+a {
+  transition: opacity 0.3s;
+}
+
+a:hover {
+  opacity: 0.5;
+}
