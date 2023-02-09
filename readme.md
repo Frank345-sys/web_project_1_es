@@ -2,7 +2,7 @@
 
 ## Continuación del Sprint 1
 
-![preview de sprint 2](/images/preview-web.png)
+![preview de sprint 2](/images/preview_web.png)
 
 ## Descripción
 
@@ -16,6 +16,10 @@ Este proyecto es una continuación del proyecto anterior realizado al finalizar 
 - uso de flex-box (display:flex) para organizar las cards, artitles y las tablecell, con aline-items y justify-content.
 - uso de padding para dar rellenos entre bloques de acuerdo a la metodología BEM.
 - uso de margin para dar separación entre elementos de los bloques de acuerdo a la metodología BEM.
+
+## Vista completa del proyecto
+
+![preview de sprint 2](/images/pagina_web_completa.png)
 
 ## Autor
 
