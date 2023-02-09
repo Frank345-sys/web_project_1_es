@@ -7,8 +7,8 @@
 /*bloque*/
 
 /*elementos*/
-@import url(../blocks/logo/_place/logo_place-header.css);
-@import url(../blocks/logo/_place/logo_place-footer.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 /*elementos*/
 /*---------------------------------------------------------------------------------------------------------------*/
 
@@ -190,9 +190,9 @@
 
 /*elementos y modificadores*/
 @import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/__columns/_content/footer__columns_content-copyright.css); /*<--modificador*/
-@import url(../blocks/footer/__columns/_content/footer__columns_content-about.css); /*<--modificador*/
-@import url(../blocks/footer/__columns/_content/footer__columns_content-social.css); /*<--modificador*/
+@import url(../blocks/footer/__columns/_content/footer__columns_content_copyright.css); /*<--modificador*/
+@import url(../blocks/footer/__columns/_content/footer__columns_content_about.css); /*<--modificador*/
+@import url(../blocks/footer/__columns/_content/footer__columns_content_social.css); /*<--modificador*/
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__list/footer__list.css);
