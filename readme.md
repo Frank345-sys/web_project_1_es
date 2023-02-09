@@ -12,7 +12,7 @@ Este proyecto es una continuación del proyecto anterior realizado al finalizar 
 - Buena maquetación con un uso correcto de etiquetas, header, main, section, article, h1, h2, p, a, etc.
 - uso de transiciones para establecer un efecto opacidad al pasar el raton para los enlaces.
 - uso de animaciones con keyframes con un ciclo infinito.
-- uso de iframes para importar videos en youtube al sitio web
+- uso de iframes para importar videos en youtube al sitio web.
 - uso de flex-box (display:flex) para organizar las cards, artitles y las tablecell, con aline-items y justify-content.
 - uso de padding para dar rellenos entre bloques de acuerdo a la metodología BEM.
 - uso de margin para dar separación entre elementos de los bloques de acuerdo a la metodología BEM.
