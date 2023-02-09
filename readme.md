@@ -1,4 +1,4 @@
-# Mi segundo Proyecto Practicum
+# Mi segundo Proyecto Practicum Sprint 2
 
 ## Continuación del Sprint 1
 
