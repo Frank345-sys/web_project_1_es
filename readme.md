@@ -1,26 +1,36 @@
 # Mi segundo Proyecto Practicum Sprint 2
 
-## Continuación del Sprint 1
+## Descripción general
 
-![preview de sprint 2](/images/preview_web.png)
+- Introducción
+- Vistas previas del proyecto
+- Nota
+- Autor
 
-## Descripción
+## Introducción
 
-Este proyecto es una continuación del proyecto anterior realizado al finalizar el Sprint 1, del bootcamp **Practicum** que estoy cursando actualmente, en donde aplique los principios aprendidos del Sprint 1 y donde actualize, mejore y añadi nuevos conocimientos HTML5 y CSS3 con los conocimientos aprendidos del Sprint 2, donde aplique:
+Este proyecto es el resultado de lo aprendido del sprint 1 y el sprint 2, del bootcamp **Practicum** que estoy cursando actualmente, en donde aplique los aprendidos y mejorados ya adquiridos, como flex-box, metodología bem, transiciones, buena maquitación, etc además aplique nuevos conocimientos como lo son:
 
-- Metodología BEM para las clases CSS y las carpetas para bloques, elementos,modificadores.
-- Buena maquetación con un uso correcto de etiquetas, header, main, section, article, h1, h2, p, a, etc.
-- uso de transiciones para establecer un efecto opacidad al pasar el raton para los enlaces.
-- uso de animaciones con keyframes con un ciclo infinito.
-- uso de iframes para importar videos en youtube al sitio web.
-- uso de flex-box (display:flex) para organizar las cards, artitles y las tablecell, con aline-items y justify-content.
-- uso de padding para dar rellenos entre bloques de acuerdo a la metodología BEM.
-- uso de margin para dar separación entre elementos de los bloques de acuerdo a la metodología BEM.
+- Grid Layout, aplicando uso de columnas y filas, para las secciones photo-grid, places y article-places.
+- Diseño responsivo con media queries, donde aplique las resoluciones de media screen and (min-width: 768px) and (max-width: 1024px) para tablets y media screen and (max-width: 768px) para dispositivos móviles.
+- Uso de max-with, min-with, min-height, max-height.
+- Uso de %, fr para el with y el height.
+- Uso de ramas para codificar por separado los apartados de diseño movil, diseño para tablet y diseño para pc/laptop.
 
-## Vista completa del proyecto
+## Vistas previas del proyecto
 
-![preview de sprint 2](/images/pagina_web_completa.png)
+- ### Vistas diseño pc ![preview de web pc](/images/full-screen.png)
+
+- ### Vistas diseño para tablets ![preview de web tablet](/images/tablet-screen.png)
+
+- ### Vistas diseño para dispositivos móviles ![preview de web móvil](/images/movil-screen.png)
+
+## Nota
+
+Toda la página web fue diseñado, en base al documentos proporcionado por el bootcamp, para la realicación del proyecto.
+
+- [Enlace al proyecto en Figma utilizado](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)
 
 ## Autor
 
-Francisco Omar Habib González Utrera
+Francisco Omar Habib González Utrera 2023
